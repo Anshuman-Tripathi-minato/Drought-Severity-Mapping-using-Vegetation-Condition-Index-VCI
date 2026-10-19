@@ -1,0 +1,14 @@
+Parameter,Value
+Project,Multi-temporal Drought Assessment using Vegetation Condition Index (VCI)
+Study Area,"Bundelkhand Region, India"
+Satellite Dataset,MODIS MOD13Q1 Version 6.1
+Rainfall Dataset,CHIRPS Daily
+Study Period,2015-2023
+Spatial Resolution,250 m
+Number of Years,9
+Pearson Correlation,-0.3766
+Spearman Correlation,-0.3
+R Squared,0.1418
+P Value,0.317779
+Generated,03-08-2026 01:05
+Author,Anshuman Tripathi
